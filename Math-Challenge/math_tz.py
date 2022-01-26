@@ -7,7 +7,7 @@ def chengfa():
         print(a)
         print("×")
         print(b)
-        d=input("等于几:  ")
+        d=input("等于几: | Equal to a few: ")
         d=int(d)
         if d==c:
             print("正确!|You are right!")
